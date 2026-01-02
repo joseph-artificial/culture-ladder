@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/culture-ladder/static/js/main.3085848c.chunk.js",
+    "main.js.map": "/culture-ladder/static/js/main.3085848c.chunk.js.map",
+    "runtime-main.js": "/culture-ladder/static/js/runtime-main.006639a7.js",
+    "runtime-main.js.map": "/culture-ladder/static/js/runtime-main.006639a7.js.map",
+    "static/js/2.259db7a2.chunk.js": "/culture-ladder/static/js/2.259db7a2.chunk.js",
+    "static/js/2.259db7a2.chunk.js.map": "/culture-ladder/static/js/2.259db7a2.chunk.js.map",
+    "index.html": "/culture-ladder/index.html",
+    "static/js/2.259db7a2.chunk.js.LICENSE.txt": "/culture-ladder/static/js/2.259db7a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.006639a7.js",
+    "static/js/2.259db7a2.chunk.js",
+    "static/js/main.3085848c.chunk.js"
+  ]
+}
